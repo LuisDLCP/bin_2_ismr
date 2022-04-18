@@ -15,12 +15,12 @@ Normal use
             ~/Input_data/
   2) Execute the script bin2ismr.sh
   3) The output files will be saved in:
-            ~/Output_files/
+            ~/Output_data/
 
 Efficient use
   1) Change the REMOTE_PATH in the script bin2ismr_aux.sh
   2) Execute the previous script 
   3) Output files will be saved in:
-            ~/Output_files/
+            ~/Output_data/
  
 -------------------------------enjoy using it! :) ---
